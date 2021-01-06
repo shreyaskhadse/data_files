@@ -5,16 +5,16 @@ This repo is made public so that the data files can be directly downloaded from 
 
 Visit my RPubs to view the analysis blogs - https://rpubs.com/shreyaskhadse
 
-challenger.csv
-concrete.csv
-credit.csv
-groceries.csv
-insurance.csv
-letterdata.csv
-mushrooms.csv
-sms_spam.csv
-snsdata.csv
-usedcars.csv
-whitewines.csv
-winequality-white.csv
-wisc_bc_data.csv
+- challenger.csv
+- concrete.csv
+- credit.csv
+- groceries.csv
+- insurance.csv
+- letterdata.csv
+- mushrooms.csv
+- sms_spam.csv
+- snsdata.csv
+- usedcars.csv
+- whitewines.csv
+- winequality-white.csv
+- wisc_bc_data.csv
